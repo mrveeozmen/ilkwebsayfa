@@ -1,5 +1,6 @@
 # patikailkwebsayfasiodevi
 
-![Eğitimler ](https://app.patika.dev/)
 
 
+
+ > [EĞİTİMLER]( https://app.patika.dev/ ) 
